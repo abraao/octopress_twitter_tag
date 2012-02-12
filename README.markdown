@@ -21,7 +21,7 @@ To use the plugin, simply use one of the options below (the @ symbol is optional
 4. Make the following optional: follow button, follower count.
 
 ## Credits
-Based on [Brandon Mathis]'s(http://github.com/imathis) [image tag plugin](https://github.com/imathis/octopress/blob/master/plugins/image_tag.rb). The HTML markup was taken from his twitter aside.
+Based on [Brandon Mathis's](http://github.com/imathis) [image tag plugin](https://github.com/imathis/octopress/blob/master/plugins/image_tag.rb). The HTML markup was taken from his twitter aside.
 
 ## Contact
 abraao@alourenco.com
