@@ -27,7 +27,7 @@ module Jekyll
     def render(context)
       if @tag
         <<-eos
-<a href="http://twitter.com/#{@tag[:username]}">@#{@tag[:username]}</a> <a href="http://twitter.com/#{@tag[:username]}" class="twitter-follow-button" data-show-count="true">Follow</a>
+<a href="http://twitter.com/#{@tag[:username]}">@#{@tag[:username]}</a> <a href="https://twitter.com/#{@tag[:username]}" class="twitter-follow-button" data-show-screen-name="false" data-width="65px" data-show-count="false">Follow</a>
         eos
       else
         "Error processing input, expected syntax: {% twitter [@]twitter_username %}"
